@@ -1,0 +1,4 @@
+<aura:event type="application" description="Event template">
+    <aura:attribute name = "selectedFields" type="List" default="[]"/>
+    <aura:attribute name="tabsName" type="String" default=""/>
+</aura:event>
